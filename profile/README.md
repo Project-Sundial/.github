@@ -1,4 +1,4 @@
-![sundial_banner]()
+![sundial_banner](profile/Transparent Logo.svg)
 
 ## Overview
 
