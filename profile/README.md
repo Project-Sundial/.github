@@ -15,4 +15,4 @@ For more details on the architecture and implementation of Sundial, please read 
 
 **<a href="https://github.com/marymcdonald" target="_blank">Mary McDonald</a>** Montreal, Canada
 
-**<a href="https://github.com/davidscoding" target="_blank">David Perez</a>** _Software Engineer_ • New York, NY
+**<a href="https://github.com/davidscoding" target="_blank">David Perez</a>** New York, NY
