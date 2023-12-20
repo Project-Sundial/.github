@@ -1,4 +1,4 @@
-![sundial_banner](profile/Transparent Logo.svg)
+![sundial_banner](https://github.com/Project-Sundial/.github/blob/main/profile/Transparent%20Logo.svg)
 
 ## Overview
 
