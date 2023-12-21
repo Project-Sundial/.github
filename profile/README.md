@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sundial is a self-hosted, open-source cron job monitoring and management system that users can operate across one or multiple nodes. 
+Sundial is a self-hosted, open-source cron job monitoring and management service that users can operate across one or multiple nodes. 
 
 Designed primarily for individuals and small to medium teams, it provides a readily deployable option to set up, modify, and monitor cron jobs. 
 
