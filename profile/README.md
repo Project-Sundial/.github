@@ -14,6 +14,8 @@ For more details on the architecture and implementation of Sundial, please read 
 2. Set up the [Listening Client](https://github.com/Project-Sundial/linking-client-executables) and register any servers with cron jobs you want to monitor.
 3. Monitor and manage all your cron jobs with ease!
 
+[Documentation is available here](https://sundial-docs.notion.site/Documentation-30c6f3cb1290473687ef55f8e4142e2e?pvs=4)
+
 ## The Team
 
 **<a href="https://github.com/sofalere" target="_blank">Sofia Alere</a>** • Chicago, IL :us:
