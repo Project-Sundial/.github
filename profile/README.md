@@ -10,7 +10,7 @@ For more details on the architecture and implementation of Sundial, please read 
 
 ## Getting Started
 
-1. Set up the [Monitoring Service](https://github.com/Project-Sundial/server).
+1. Set up the [Monitoring Service](https://github.com/Project-Sundial/monitoring-service).
 2. Set up the [Listening Client](https://github.com/Project-Sundial/linking-client-executables) and register any servers with cron jobs you want to monitor.
 3. Monitor and manage all your cron jobs with ease!
 
